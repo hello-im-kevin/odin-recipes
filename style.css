@@ -1,0 +1,38 @@
+body {
+    background-color: whitesmoke;
+    font-family: sans-serif;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 48px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h1, h2 {
+    font-family: serif;
+    color: tomato;
+    font-weight: 900;
+}
+
+a, body {
+    color: darkslategray;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+img {
+    width: 600px;
+    height: 300px;
+    border-radius: 4px;
+    object-fit: cover;
+    margin-bottom: 24px;
+}
